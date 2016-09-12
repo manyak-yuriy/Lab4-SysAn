@@ -1,0 +1,44 @@
+﻿  Main.cpp
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\tPoly.h(48): warning C4521: tPoly: заданы несколько конструкторов копии
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1441): warning C4101: eps: неиспользованная локальная переменная
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1836): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1837): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1844): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1845): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1856): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1857): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1864): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1865): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1875): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1876): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1883): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1884): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1894): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1895): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1902): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1903): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Main.cpp(654): warning C4244: инициализация: преобразование "std::chrono::system_clock::rep" в "unsigned int", возможна потеря данных
+Main.cpp(667): warning C4244: инициализация: преобразование "std::chrono::system_clock::rep" в "unsigned int", возможна потеря данных
+Main.cpp(714): warning C4101: lambda: неиспользованная локальная переменная
+  MyForm.cpp
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\tPoly.h(48): warning C4521: tPoly: заданы несколько конструкторов копии
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1441): warning C4101: eps: неиспользованная локальная переменная
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1836): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1837): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1844): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1845): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1856): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1857): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1864): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1865): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1875): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1876): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1883): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1884): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1894): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1895): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1902): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\MyForm.h(1903): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+d:\archive\7 semester\systems analysis\lab4\code\current\ourlab\main.cpp(249): warning C4715: Polynom: значение возвращается не при всех путях выполнения
+  OurLab.vcxproj -> D:\Archive\7 semester\Systems Analysis\Lab4\Code\Current\Debug\OurLab.exe

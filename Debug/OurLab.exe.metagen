@@ -1,0 +1,84 @@
+  OurLab.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly OurLab, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class OurLab.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 N01 : Public
+    Int32 N02 : Public
+    Double* t : Public
+    Double* Y1 : Public
+    Double* Y1_forecast : Public
+    Double* Y2 : Public
+    Double* Y2_forecast : Public
+    Double* Y3 : Public
+    Double* Y3_forecast : Public
+    Double* Y4 : Public
+    Double* Y4_forecast : Public
+    Double* X11 : Public
+    Double* X12 : Public
+    Double* X13 : Public
+    Double* X21 : Public
+    Double* X22 : Public
+    Double* X23 : Public
+    Double* X31 : Public
+    Double* X32 : Public
+    Double* X33 : Public
+    Double* X34 : Public
+    Double* X35 : Public
+    Double* X41 : Public
+    Double* X42 : Public
+    Double* X43 : Public
+    Double* X44 : Public
+    Double* res : Public
+    Double* levels : Public
+    Double delta_t IsConst : Public
+    Double y1_nesht IsConst : Public
+    Double y1_avar IsConst : Public
+    Double y2_nesht IsConst : Public
+    Double y2_avar IsConst : Public
+    Double y3_nesht IsConst : Public
+    Double y3_avar IsConst : Public
+    Double y4_nesht IsConst : Public
+    Double y4_avar IsConst : Public
+    tVector* X : Public, Static
+    tVector* Y : Public, Static
+    tVector* XX : Public, Static
+    tVector* B : Public, Static
+    Int32 q0 : Public, Static
+    Int32 dim1 : Public, Static
+    Int32 dim2 : Public, Static
+    Int32 dim3 : Public, Static
+    Int32 p1 : Public, Static
+    Int32 p2 : Public, Static
+    Int32 p3 : Public, Static
+    Int32 dimY : Public, Static
+    tVector* c : Public, Static
+    tVector* a : Public, Static
+    tVector* lambda : Public, Static
+    Int32 type : Public, Static
+    tVector* cc : Public, Static
+    tVector* aa : Public, Static
+    tVector* lambdalambda : Public, Static
+  Methods:
+    get_r(): PrivateScope, Public, HideBySig
+    get_r1(): PrivateScope, Public, HideBySig
+    show_levels(Double): PrivateScope, Public, HideBySig
+    con(Int32): PrivateScope, Public, HideBySig
+    code_of_button1(): PrivateScope, Public, HideBySig
